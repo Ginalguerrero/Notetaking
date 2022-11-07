@@ -3,7 +3,8 @@ const express = require("express");
 const notes = require("./notes");
 const api = require("./api");
 const app = express();
-const port = 3000;
+require('dotenv').config()
+const port = process.env.PORT||3000;
 const basePath = path.join(__dirname, "public");
 
 
