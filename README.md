@@ -9,7 +9,11 @@ The user should also see the saved notes on the left side of the app where they 
 
 ## Deployed screenshot & the link
 
+
+![Screenshot 2022-11-06 8 07 58 PM](https://user-images.githubusercontent.com/112473624/200224702-b63c4634-0958-4903-92bc-7688003400d0.png)
+
 ![Screenshot 2022-11-06 7 53 50 PM](https://user-images.githubusercontent.com/112473624/200223726-0d8154e2-3bc2-486b-a596-03815be871dc.png)
+
 
 ## Deployed backend url:
 https://notetaking-x.herokuapp.com/notes
